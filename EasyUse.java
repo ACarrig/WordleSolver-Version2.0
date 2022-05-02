@@ -12,7 +12,7 @@ public class EasyUse {
    */
   public static void main(String[] args) {
     ArrayList<String> wordList = new ArrayList<>(16500);
-    File file = new File("/Users/acarrig/CompSciStuff/GetWords/wordle.txt");
+    File file = new File("/File-Path/wordle.txt");
     Scanner scnr;
 
     try {
